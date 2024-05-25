@@ -1,0 +1,28 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Problem": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "options": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "correct": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
